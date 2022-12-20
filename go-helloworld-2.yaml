@@ -15,7 +15,7 @@ spec:
         app: go-helloworld-2
     spec:
       containers:
-      - image: m19016/go-helloworld-2
+      - image: ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJiXfNebhOCcZQ+d0FwKgSWI5YBz5lNFEHLr7GScavk6 pi@node-06
         name: go-helloworld-2
 ---
 apiVersion: v1
